@@ -1,0 +1,4 @@
+.vs
+portal2_.*
+*.vcxproj.filters
+*.vcxproj.user
